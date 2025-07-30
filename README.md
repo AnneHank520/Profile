@@ -49,7 +49,7 @@ project-root/
 
 1. **Clone this repo**
 ```bash
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/AnneHank520/portfolio-website.git
 cd portfolio-website
 ```
 
